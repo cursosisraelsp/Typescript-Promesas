@@ -1,4 +1,4 @@
 # Notas iniciais
 
-> [WARNING]
+> [!WARNING]
 > O package.json contén o 'typescript' e o 'ts-node' 
